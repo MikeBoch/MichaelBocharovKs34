@@ -13,7 +13,7 @@ int main() {
     
 
 
-    cout << a << "\n\n" << b << endl;
+    cout << a << "\t" << b << endl;
 
     getchar();
     return 0;
