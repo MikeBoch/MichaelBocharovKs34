@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1599653005 source:c:\users\mike\documents\codeblocks\new\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+
+1599654522 source:c:\users\mike\documents\github\michaelbocharovks34\main.cpp
+	<iostream>
+	<time.h>
+	<math.h>
+
